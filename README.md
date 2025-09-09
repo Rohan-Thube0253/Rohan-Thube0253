@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 Welcome to my GitHub!  
-I’m passionate about solving business problems with data — from cleaning raw datasets to building forecasting models and creating dashboards that help in decision-making.  
+I’m passionate about solving business problems with data, from cleaning raw datasets to building forecasting models and creating dashboards that help in decision-making.  
 
 Here you’ll find:
 - 📊 **Projects** on data analysis, forecasting, and visualization  
